@@ -186,20 +186,35 @@ C/Python /Flowchart
 For each of these exercises, it would be helpful to create a flowchart or pseudocode to help plan out the implementation before diving into the actual code. Additionally, for exercises involving real-world applications, it may be necessary to acquire or generate appropriate datasets for testing and evaluation.
 
 Additional Assignment 
- Compare the (serial, parallel ) algorithms  implementation on (single core, multi core) processors CPU and GPU and plot the performance on various input size for following data structures:
+ 
+Compare the (serial, parallel ) algorithms  implementation on (single core, multi core) processors CPU and GPU and plot the performance on various input size for following data structures:
 
 1 Arrays
+
 2 Linked Lists
+
 3 Stacks
+
 4 Queues
+
 5 Trees
+
 6 Hash Tables
+
 7 Graphs 
+
 8 Heaps
+
 9 Tries
+
 10 Sets
+
 11 Maps
+
 12 Vectors
+
 13 Matrices
+
 14 Doubly Linked Lists
+
 15 Priority Queues
