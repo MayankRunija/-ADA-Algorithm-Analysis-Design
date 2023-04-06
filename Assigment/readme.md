@@ -1,7 +1,11 @@
 Programming Assignments  : Assignment 
+
 Unit-1: Introduction to Algorithms:
+
 Programming exercises related to implementing and analyzing the efficiency of algorithms for common tasks such as searching and sorting, analyzing the performance of different algorithms using big-O notation and empirical testing, and developing algorithms for specific problems and evaluating their efficiency and effectiveness.
+
 C Programming Exercises:
+
 1. Implement a binary search algorithm for an array of integers.
 2. Implement a bubble sort algorithm for an array of integers.
 3. Implement a selection sort algorithm for an array of integers.
@@ -34,11 +38,16 @@ Flowchart Exercises:
 28. Create a flowchart for a hash table data structure using separate chaining collision resolution.
 29. Create a flowchart for a hash table data structure using linear probing collision resolution.
 30. Create a flowchart for a heap data structure and use it to sort an array of integers.
-	These exercises can help you practice and develop your skills in implementing and analyzing the efficiency of algorithms for common tasks such as searching and sorting, analyzing the performance of different algorithms using big-O notation and empirical testing, and developing algorithms for specific problems and evaluating their efficiency and effectiveness.
+	
+These exercises can help you practice and develop your skills in implementing and analyzing the efficiency of algorithms for common tasks such as searching and sorting, analyzing the performance of different algorithms using big-O notation and empirical testing, and developing algorithms for specific problems and evaluating their efficiency and effectiveness.
+
 
 Unit-2: Divide and Conquer:
+
 Complete following  programming exercises related to implementing and analyzing the efficiency of divide-and-conquer algorithms for specific problems, developing new divide-and-conquer algorithms for complex problems and evaluating their efficiency and effectiveness, and comparing and contrasting divide-and-conquer algorithms with other algorithmic approaches.
+
 C Programming Exercises:
+
 1. Implement a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
 2. Implement a recursive algorithm for computing the Fibonacci sequence using divide-and-conquer.
 3. Implement a recursive algorithm for computing the greatest common divisor of two integers using divide-and-conquer.
@@ -49,7 +58,9 @@ C Programming Exercises:
 8. Implement a divide-and-conquer algorithm for multiplying two large integers.
 9. Implement a divide-and-conquer algorithm for finding the closest pair of points in 2D space.
 10. Implement a divide-and-conquer algorithm for sorting a linked list.
+
 Python Programming Exercises:
+
 11. Implement a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
 12. Implement a recursive algorithm for computing the Fibonacci sequence using divide-and-conquer.
 13. Implement a recursive algorithm for computing the greatest common divisor of two integers using divide-and-conquer.
@@ -60,7 +71,9 @@ Python Programming Exercises:
 18. Implement a divide-and-conquer algorithm for multiplying two large integers.
 19. Implement a divide-and-conquer algorithm for finding the closest pair of points in 2D space.
 20. Implement a divide-and-conquer algorithm for sorting a linked list.
+
 Flowchart Exercises:
+
 21. Create a flowchart for a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
 22. Create a flowchart for a recursive algorithm for computing the Fibonacci sequence using divide-and-conquer.
 23. Create a flowchart for a recursive algorithm for computing the greatest common divisor of two integers using divide-and-conquer.
@@ -71,9 +84,13 @@ Flowchart Exercises:
 28. Create a flowchart for a divide-and-conquer algorithm for multiplying two large integers.
 29. Create a flowchart for a divide-and-conquer algorithm for finding the closest pair of points in 2D space.
 30. Create a flowchart for a divide-and-conquer algorithm for sorting a linked list.
+
 These exercises can help you practice and develop your skills in implementing and analyzing the efficiency of divide-and-conquer algorithms for specific problems, developing new divide-and-conquer algorithms for complex problems and evaluating their efficiency and effectiveness, and comparing and contrasting divide-and-conquer algorithms with other algorithmic approaches.
+
 Unit-3: Dynamic Programming:
+
 C/Python /Flowchart
+
 31. Implement the Fibonacci sequence using dynamic programming in C or Python. Analyze the time complexity of your implementation and compare it with the time complexity of a recursive implementation.
 32. Implement the longest common subsequence problem using dynamic programming in C or Python. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
 33. Implement the knapsack problem using dynamic programming in C or Python. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a greedy algorithm.
@@ -87,22 +104,35 @@ C/Python /Flowchart
 These exercises will help you understand and implement dynamic programming algorithms, analyze their time and space complexity, and compare them with other algorithmic approaches.
 
 Unit-4: Greedy Algorithms:
+
 C/Python /Flowchart
+
 41. Implement the Huffman coding algorithm to compress a given string in C or Python.
+
 42. Implement Kruskal's algorithm to find the minimum spanning tree of a given graph in C or Python.
+
 43. Implement the Dijkstra algorithm to find the shortest path between two vertices in a graph in C or Python.
+
 44. Implement the activity selection problem using a greedy approach in C or Python.
+
 45. Implement the knapsack problem using a greedy approach in C or Python.
+
 46. Implement the coin change problem using a greedy approach in C or Python.
+
 47. Develop a new greedy algorithm to solve the job scheduling problem and analyze its efficiency and effectiveness in C or Python.
+
 48. Implement Prim's algorithm to find the minimum spanning tree of a given graph in flowchart.
+
 49. Implement the interval scheduling problem using a greedy approach in flowchart.
+
 50. Implement the fractional knapsack problem using a greedy approach in flowchart.
 
 These exercises will help you practice implementing and analyzing the efficiency of greedy algorithms for specific problems, developing new greedy algorithms for complex problems, and comparing and contrasting greedy algorithms with other algorithmic approaches.
 
 Unit-5: Graph Algorithms:
+
 C/Python /Flowchart
+
 51. Implement Breadth First Search (BFS) algorithm to find the shortest path between two nodes in a graph in C or Python.
 52. Implement Depth First Search (DFS) algorithm to traverse a graph and find connected components in C or Python.
 53. Implement Dijkstra's algorithm to find the shortest path between two nodes in a weighted graph in C or Python.
@@ -113,10 +143,14 @@ C/Python /Flowchart
 58. Implement the PageRank algorithm to rank web pages in a network in Python.
 59. Implement the Girvan-Newman algorithm to find communities in a social network in Python.
 60. Apply graph algorithms to analyze the network structure and connectivity of a real-world social network, such as Facebook or Twitter.
+
 These exercises will help you practice implementing and analyzing the efficiency of graph algorithms for specific problems, developing new graph algorithms for complex problems, and applying graph algorithms to real-world problems such as network analysis and social network analysis.
 
+
 Unit-6 :NP-Completeness:
+
 C/Python /Flowchart
+
 61. Implement a dynamic programming algorithm for the Longest Common Subsequence Problem (LCS), and analyze its time and space complexity using Big-O notation.
 62. Develop a greedy algorithm for the Job Scheduling Problem, and evaluate its effectiveness on a variety of input instances.
 63. Implement a branch and bound algorithm for the Traveling Salesman Problem, and analyze its running time complexity.
@@ -153,6 +187,7 @@ For each of these exercises, it would be helpful to create a flowchart or pseudo
 
 Additional Assignment 
  Compare the (serial, parallel ) algorithms  implementation on (single core, multi core) processors CPU and GPU and plot the performance on various input size for following data structures:
+
 1 Arrays
 2 Linked Lists
 3 Stacks
