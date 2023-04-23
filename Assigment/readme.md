@@ -1,30 +1,43 @@
 Assignments  : Assignment #1
 
 Unit-1: Introduction to Algorithms:
+
 • Implement and analyze the efficiency of algorithms for common tasks such as searching and sorting.
 • Analyze the performance of different algorithms using big-O notation and empirical testing.
 • Develop algorithms for specific problems and evaluate their efficiency and effectiveness.
+
 Unit-2: Divide and Conquer:
+
 • Implement and analyze the efficiency of divide-and-conquer algorithms for specific problems.
 • Develop new divide-and-conquer algorithms for complex problems and evaluate their efficiency and effectiveness.
 • Compare and contrast divide-and-conquer algorithms with other algorithmic approaches.
+
 Unit-3: Dynamic Programming:
+
 • Implement and analyze the efficiency of dynamic programming algorithms for specific problems.
 • Develop new dynamic programming algorithms for complex problems and evaluate their efficiency and effectiveness.
 • Compare and contrast dynamic programming algorithms with other algorithmic approaches.
+
 Unit-4: Greedy Algorithms:
+
 • Implement and analyze the efficiency of greedy algorithms for specific problems.
 • Develop new greedy algorithms for complex problems and evaluate their efficiency and effectiveness.
 • Compare and contrast greedy algorithms with other algorithmic approaches.
+
 Unit-5: Graph Algorithms:
+
 • Implement and analyze the efficiency of graph algorithms for specific problems.
 • Develop new graph algorithms for complex problems and evaluate their efficiency and effectiveness.
 • Apply graph algorithms to real-world problems such as network analysis and social network analysis.
+
 Unit-6 :NP-Completeness:
+
 • Analyze the complexity of NP-complete problems using mathematical notation and techniques.
 • Develop approximation algorithms and heuristics for specific NP-complete problems.
 • Evaluate the effectiveness of approximation algorithms and heuristics for specific NP-complete problems.
+
 Unit - 7: Advanced Topics:
+
 • Implement and analyze the efficiency of randomized algorithms and parallel algorithms for specific problems.
 • Apply advanced algorithms to real-world problems in fields such as machine learning, cryptography, and bioinformatics.
 • Develop new advanced algorithms for complex problems and evaluate their efficiency and effectiveness.
@@ -45,28 +58,48 @@ C Programming Exercises:
 10. Implement a heap data structure and use it to sort an array of integers.
 
 Python Programming Exercises:
+
 11. Implement a binary search algorithm for a list of integers.
-12. Implement a bubble sort algorithm for a list of integers.
-13. Implement a selection sort algorithm for a list of integers.
-14. Implement an insertion sort algorithm for a list of integers.
-15. Implement a merge sort algorithm for a list of integers.
-16. Implement a quick sort algorithm for a list of integers.
-17. Implement a linear search algorithm for a list of integers.
-18. Implement a hash table data structure using separate chaining collision resolution.
-19. Implement a hash table data structure using linear probing collision resolution.
-20. Implement a heap data structure and use it to sort a list of integers.
+12. 
+13. Implement a bubble sort algorithm for a list of integers.
+14. 
+15. Implement a selection sort algorithm for a list of integers.
+16. 
+17. Implement an insertion sort algorithm for a list of integers.
+18. 
+19. Implement a merge sort algorithm for a list of integers.
+20. 
+21. Implement a quick sort algorithm for a list of integers.
+22. 
+23. Implement a linear search algorithm for a list of integers.
+24. 
+25. Implement a hash table data structure using separate chaining collision resolution.
+26. 
+27. Implement a hash table data structure using linear probing collision resolution.
+28. 
+29. Implement a heap data structure and use it to sort a list of integers.
 
 Flowchart Exercises:
-21. Create a flowchart for a binary search algorithm.
-22. Create a flowchart for a bubble sort algorithm.
-23. Create a flowchart for a selection sort algorithm.
-24. Create a flowchart for an insertion sort algorithm.
-25. Create a flowchart for a merge sort algorithm.
-26. Create a flowchart for a quick sort algorithm.
-27. Create a flowchart for a linear search algorithm.
-28. Create a flowchart for a hash table data structure using separate chaining collision resolution.
-29. Create a flowchart for a hash table data structure using linear probing collision resolution.
-30. Create a flowchart for a heap data structure and use it to sort an array of integers.
+21. 
+22. Create a flowchart for a binary search algorithm.
+23. 
+24. Create a flowchart for a bubble sort algorithm.
+25. 
+26. Create a flowchart for a selection sort algorithm.
+27. 
+28. Create a flowchart for an insertion sort algorithm.
+29. 
+30. Create a flowchart for a merge sort algorithm.
+31. 
+32. Create a flowchart for a quick sort algorithm.
+33. 
+34. Create a flowchart for a linear search algorithm.
+35. 
+36. Create a flowchart for a hash table data structure using separate chaining collision resolution.
+37. 
+38. Create a flowchart for a hash table data structure using linear probing collision resolution.
+39. 
+40. Create a flowchart for a heap data structure and use it to sort an array of integers.
 
 These exercises can help you practice and develop your skills in implementing and analyzing the efficiency of algorithms for common tasks such as searching and sorting, analyzing the performance of different algorithms using big-O notation and empirical testing, and developing algorithms for specific problems and evaluating their efficiency and effectiveness.
 
@@ -85,16 +118,26 @@ C Programming Exercises:
 10. Implement a divide-and-conquer algorithm for sorting a linked list.
 
 Python Programming Exercises:
-11. Implement a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
-12. Implement a recursive algorithm for computing the Fibonacci sequence using divide-and-conquer.
-13. Implement a recursive algorithm for computing the greatest common divisor of two integers using divide-and-conquer.
-14. Implement a recursive algorithm for computing the Euclidean distance between two points in 2D space using divide-and-conquer.
-15. Implement a divide-and-conquer algorithm for finding the maximum subarray sum of a given array of integers.
-16. Implement a divide-and-conquer algorithm for merging two sorted arrays.
-17. Implement a divide-and-conquer algorithm for finding the kth largest element in an unsorted array of integers.
-18. Implement a divide-and-conquer algorithm for multiplying two large integers.
-19. Implement a divide-and-conquer algorithm for finding the closest pair of points in 2D space.
-20. Implement a divide-and-conquer algorithm for sorting a linked list.
+11. 
+12. Implement a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
+13. 
+14. Implement a recursive algorithm for computing the Fibonacci sequence using divide-and-conquer.
+15. 
+16. Implement a recursive algorithm for computing the greatest common divisor of two integers using divide-and-conquer.
+17. 
+18. Implement a recursive algorithm for computing the Euclidean distance between two points in 2D space using divide-and-conquer.
+19. 
+20. Implement a divide-and-conquer algorithm for finding the maximum subarray sum of a given array of integers.
+21. 
+22. Implement a divide-and-conquer algorithm for merging two sorted arrays.
+23. 
+24. Implement a divide-and-conquer algorithm for finding the kth largest element in an unsorted array of integers.
+25. 
+26. Implement a divide-and-conquer algorithm for multiplying two large integers.
+27. 
+28. Implement a divide-and-conquer algorithm for finding the closest pair of points in 2D space.
+29. 
+30. Implement a divide-and-conquer algorithm for sorting a linked list.
 
 Flowchart Exercises:
 21. Create a flowchart for a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
