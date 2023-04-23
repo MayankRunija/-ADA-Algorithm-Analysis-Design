@@ -1,11 +1,38 @@
-Programming Assignments  : Assignment 
+Assignments  : Assignment #1
 
 Unit-1: Introduction to Algorithms:
-
-Programming exercises related to implementing and analyzing the efficiency of algorithms for common tasks such as searching and sorting, analyzing the performance of different algorithms using big-O notation and empirical testing, and developing algorithms for specific problems and evaluating their efficiency and effectiveness.
+• Implement and analyze the efficiency of algorithms for common tasks such as searching and sorting.
+• Analyze the performance of different algorithms using big-O notation and empirical testing.
+• Develop algorithms for specific problems and evaluate their efficiency and effectiveness.
+Unit-2: Divide and Conquer:
+• Implement and analyze the efficiency of divide-and-conquer algorithms for specific problems.
+• Develop new divide-and-conquer algorithms for complex problems and evaluate their efficiency and effectiveness.
+• Compare and contrast divide-and-conquer algorithms with other algorithmic approaches.
+Unit-3: Dynamic Programming:
+• Implement and analyze the efficiency of dynamic programming algorithms for specific problems.
+• Develop new dynamic programming algorithms for complex problems and evaluate their efficiency and effectiveness.
+• Compare and contrast dynamic programming algorithms with other algorithmic approaches.
+Unit-4: Greedy Algorithms:
+• Implement and analyze the efficiency of greedy algorithms for specific problems.
+• Develop new greedy algorithms for complex problems and evaluate their efficiency and effectiveness.
+• Compare and contrast greedy algorithms with other algorithmic approaches.
+Unit-5: Graph Algorithms:
+• Implement and analyze the efficiency of graph algorithms for specific problems.
+• Develop new graph algorithms for complex problems and evaluate their efficiency and effectiveness.
+• Apply graph algorithms to real-world problems such as network analysis and social network analysis.
+Unit-6 :NP-Completeness:
+• Analyze the complexity of NP-complete problems using mathematical notation and techniques.
+• Develop approximation algorithms and heuristics for specific NP-complete problems.
+• Evaluate the effectiveness of approximation algorithms and heuristics for specific NP-complete problems.
+Unit - 7: Advanced Topics:
+• Implement and analyze the efficiency of randomized algorithms and parallel algorithms for specific problems.
+• Apply advanced algorithms to real-world problems in fields such as machine learning, cryptography, and bioinformatics.
+• Develop new advanced algorithms for complex problems and evaluate their efficiency and effectiveness.
+	
+Programming Assignments  : Assignment 
+Unit-1: Introduction to Algorithms: Programming exercises related to implementing and analyzing the efficiency of algorithms for common tasks such as searching and sorting, analyzing the performance of different algorithms using big-O notation and empirical testing, and developing algorithms for specific problems and evaluating their efficiency and effectiveness.
 
 C Programming Exercises:
-
 1. Implement a binary search algorithm for an array of integers.
 2. Implement a bubble sort algorithm for an array of integers.
 3. Implement a selection sort algorithm for an array of integers.
@@ -16,6 +43,7 @@ C Programming Exercises:
 8. Implement a hash table data structure using separate chaining collision resolution.
 9. Implement a hash table data structure using linear probing collision resolution.
 10. Implement a heap data structure and use it to sort an array of integers.
+
 Python Programming Exercises:
 11. Implement a binary search algorithm for a list of integers.
 12. Implement a bubble sort algorithm for a list of integers.
@@ -27,6 +55,7 @@ Python Programming Exercises:
 18. Implement a hash table data structure using separate chaining collision resolution.
 19. Implement a hash table data structure using linear probing collision resolution.
 20. Implement a heap data structure and use it to sort a list of integers.
+
 Flowchart Exercises:
 21. Create a flowchart for a binary search algorithm.
 22. Create a flowchart for a bubble sort algorithm.
@@ -38,16 +67,12 @@ Flowchart Exercises:
 28. Create a flowchart for a hash table data structure using separate chaining collision resolution.
 29. Create a flowchart for a hash table data structure using linear probing collision resolution.
 30. Create a flowchart for a heap data structure and use it to sort an array of integers.
-	
+
 These exercises can help you practice and develop your skills in implementing and analyzing the efficiency of algorithms for common tasks such as searching and sorting, analyzing the performance of different algorithms using big-O notation and empirical testing, and developing algorithms for specific problems and evaluating their efficiency and effectiveness.
 
-
-Unit-2: Divide and Conquer:
-
-Complete following  programming exercises related to implementing and analyzing the efficiency of divide-and-conquer algorithms for specific problems, developing new divide-and-conquer algorithms for complex problems and evaluating their efficiency and effectiveness, and comparing and contrasting divide-and-conquer algorithms with other algorithmic approaches.
+Unit-2: Divide and Conquer: Complete following  programming exercises related to implementing and analyzing the efficiency of divide-and-conquer algorithms for specific problems, developing new divide-and-conquer algorithms for complex problems and evaluating their efficiency and effectiveness, and comparing and contrasting divide-and-conquer algorithms with other algorithmic approaches.
 
 C Programming Exercises:
-
 1. Implement a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
 2. Implement a recursive algorithm for computing the Fibonacci sequence using divide-and-conquer.
 3. Implement a recursive algorithm for computing the greatest common divisor of two integers using divide-and-conquer.
@@ -60,7 +85,6 @@ C Programming Exercises:
 10. Implement a divide-and-conquer algorithm for sorting a linked list.
 
 Python Programming Exercises:
-
 11. Implement a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
 12. Implement a recursive algorithm for computing the Fibonacci sequence using divide-and-conquer.
 13. Implement a recursive algorithm for computing the greatest common divisor of two integers using divide-and-conquer.
@@ -73,7 +97,6 @@ Python Programming Exercises:
 20. Implement a divide-and-conquer algorithm for sorting a linked list.
 
 Flowchart Exercises:
-
 21. Create a flowchart for a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
 22. Create a flowchart for a recursive algorithm for computing the Fibonacci sequence using divide-and-conquer.
 23. Create a flowchart for a recursive algorithm for computing the greatest common divisor of two integers using divide-and-conquer.
@@ -104,27 +127,17 @@ C/Python /Flowchart
 These exercises will help you understand and implement dynamic programming algorithms, analyze their time and space complexity, and compare them with other algorithmic approaches.
 
 Unit-4: Greedy Algorithms:
-
 C/Python /Flowchart
 
 41. Implement the Huffman coding algorithm to compress a given string in C or Python.
-
 42. Implement Kruskal's algorithm to find the minimum spanning tree of a given graph in C or Python.
-
 43. Implement the Dijkstra algorithm to find the shortest path between two vertices in a graph in C or Python.
-
 44. Implement the activity selection problem using a greedy approach in C or Python.
-
 45. Implement the knapsack problem using a greedy approach in C or Python.
-
 46. Implement the coin change problem using a greedy approach in C or Python.
-
 47. Develop a new greedy algorithm to solve the job scheduling problem and analyze its efficiency and effectiveness in C or Python.
-
 48. Implement Prim's algorithm to find the minimum spanning tree of a given graph in flowchart.
-
 49. Implement the interval scheduling problem using a greedy approach in flowchart.
-
 50. Implement the fractional knapsack problem using a greedy approach in flowchart.
 
 These exercises will help you practice implementing and analyzing the efficiency of greedy algorithms for specific problems, developing new greedy algorithms for complex problems, and comparing and contrasting greedy algorithms with other algorithmic approaches.
@@ -145,7 +158,6 @@ C/Python /Flowchart
 60. Apply graph algorithms to analyze the network structure and connectivity of a real-world social network, such as Facebook or Twitter.
 
 These exercises will help you practice implementing and analyzing the efficiency of graph algorithms for specific problems, developing new graph algorithms for complex problems, and applying graph algorithms to real-world problems such as network analysis and social network analysis.
-
 
 Unit-6 :NP-Completeness:
 
@@ -183,7 +195,9 @@ C/Python /Flowchart
 88. Develop a new algorithm for the Maximum Flow Problem, and evaluate its efficiency and effectiveness on a set of benchmark instances.
 89. Apply a bioinformatics algorithm such as Smith-Waterman or Needleman-Wunsch to a real-world problem such as DNA sequencing or protein folding, and analyze its accuracy and efficiency.
 90. Implement a randomized algorithm for the Minimum Cut Problem, and analyze its expected running time and approximation ratio.
+
 For each of these exercises, it would be helpful to create a flowchart or pseudocode to help plan out the implementation before diving into the actual code. Additionally, for exercises involving real-world applications, it may be necessary to acquire or generate appropriate datasets for testing and evaluation.
+
 
 Additional Assignment 
  
