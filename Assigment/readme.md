@@ -14,31 +14,55 @@ C Programming Exercises:
 8. Implement a hash table data structure using separate chaining collision resolution.
 9. Implement a hash table data structure using linear probing collision resolution.
 10. Implement a heap data structure and use it to sort an array of integers.
-11. 
+
 Python Programming Exercises:
+
 11. Implement a binary search algorithm for a list of integers.
+
 12. Implement a bubble sort algorithm for a list of integers.
+
 13. Implement a selection sort algorithm for a list of integers.
+
 14. Implement an insertion sort algorithm for a list of integers.
+
 15. Implement a merge sort algorithm for a list of integers.
+
 16. Implement a quick sort algorithm for a list of integers.
+
 17. Implement a linear search algorithm for a list of integers.
+
 18. Implement a hash table data structure using separate chaining collision resolution.
+
+
 19. Implement a hash table data structure using linear probing collision resolution.
+
 20. Implement a heap data structure and use it to sort a list of integers.
 
+
+
 Flowchart Exercises:
+
 21. Create a flowchart for a binary search algorithm.
+
 22. Create a flowchart for a bubble sort algorithm.
+
 23. Create a flowchart for a selection sort algorithm.
+
 24. Create a flowchart for an insertion sort algorithm.
+
 25. Create a flowchart for a merge sort algorithm.
+
 26. Create a flowchart for a quick sort algorithm.
+
 27. Create a flowchart for a linear search algorithm.
+
 28. Create a flowchart for a hash table data structure using separate chaining collision resolution.
+
 29. Create a flowchart for a hash table data structure using linear probing collision resolution.
+
 30. Create a flowchart for a heap data structure and use it to sort an array of integers.
-	These exercises can help you practice and develop your skills in implementing and analyzing the efficiency of algorithms for common tasks such as searching and sorting, analyzing the performance of different algorithms using big-O notation and empirical testing, and developing algorithms for specific problems and evaluating their efficiency and effectiveness.
+
+These exercises can help you practice and develop your skills in implementing and analyzing the efficiency of algorithms for common tasks such as searching and sorting, analyzing the performance of different algorithms using big-O notation and empirical testing, and developing algorithms for specific problems and evaluating their efficiency and effectiveness.
 
 Unit-2: Divide and Conquer: Complete following  programming exercises related to implementing and analyzing the efficiency of divide-and-conquer algorithms for specific problems, developing new divide-and-conquer algorithms for complex problems and evaluating their efficiency and effectiveness, and comparing and contrasting divide-and-conquer algorithms with other algorithmic approaches.
 
@@ -85,15 +109,25 @@ These exercises can help you practice and develop your skills in implementing an
 Unit-3: Dynamic Programming:
 
 C/Python /Flowchart
+
 31. Implement the Fibonacci sequence using dynamic programming in C or Python. Analyze the time complexity of your implementation and compare it with the time complexity of a recursive implementation.
+
 32. Implement the longest common subsequence problem using dynamic programming in C or Python. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
+
 33. Implement the knapsack problem using dynamic programming in C or Python. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a greedy algorithm.
+
 34. Implement the rod-cutting problem using dynamic programming in C or Python. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
+
 35. Implement the matrix chain multiplication problem using dynamic programming in C or Python. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
+
 36. Develop a dynamic programming algorithm for the edit distance problem in C or Python. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
+
 37. Develop a dynamic programming algorithm for the coin change problem in C or Python. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a greedy algorithm.
+
 38. Implement a dynamic programming algorithm to find the maximum sum subarray in C or Python. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive brute-force approach.
+
 39. Develop a dynamic programming algorithm to find the longest increasing subsequence in C or Python. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a brute-force approach.
+
 40. Create a flowchart for a dynamic programming algorithm that solves the longest common substring problem. Analyze the time and space complexity of the algorithm and compare it with the time and space complexity of a brute-force approach.
 These exercises will help you understand and implement dynamic programming algorithms, analyze their time and space complexity, and compare them with other algorithmic approaches.
 
@@ -221,21 +255,37 @@ C/Python /Flowchart
 
 For each of these exercises, it would be helpful to create a flowchart or pseudocode to help plan out the implementation before diving into the actual code. Additionally, for exercises involving real-world applications, it may be necessary to acquire or generate appropriate datasets for testing and evaluation.
 
+Additional Assignment 
+ Compare the (serial, parallel ) algorithms  implementation on (single core, multi core) processors CPU and GPU and plot the performance on various input size for following data structures:
 
 1.Arrays
+
 2.Linked Lists
+
 3.Stacks
+
 4.Queues
+
 5.Trees
+
 6.Hash Tables
+
 7.Graphs
+
 8.Heaps
+
 9.Tries
+
 10.Sets
+
 11.Maps
+
 12.Vectors
+
 13.Matrices
+
 14.Doubly Linked Lists
+
 15.Priority Queues
 
 
