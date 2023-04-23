@@ -65,22 +65,28 @@ int main() {
 
 
 //Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
-To analyze the time complexity of the dynamic programming solution for the longest common subsequence problem in C, we can use the following mathematical expression:
+To analyze the time complexity of the dynamic programming solution for the longest common subsequence problem in C,
+we can use the following mathematical expression:
 
-Let m and n be the lengths of the input strings X and Y, respectively. Let T(m,n) be the time complexity of the dynamic programming solution.
+Let m and n be the lengths of the input strings X and Y, respectively. 
+Let T(m,n) be the time complexity of the dynamic programming solution.
 
-The time complexity of filling in the dynamic programming table using the nested for loop is O(mn). The time complexity of building the longest common subsequence from the dynamic programming table is O(m+n). Therefore, the overall time complexity of the dynamic programming solution is:
+The time complexity of filling in the dynamic programming table using the nested for loop is O(mn). 
+The time complexity of building the longest common subsequence from the dynamic programming table is O(m+n).
+Therefore, the overall time complexity of the dynamic programming solution is:
 
 T(m,n) = O(mn) + O(m+n)
 = O(mn)
 
 Thus, the time complexity of the dynamic programming solution is O(mn).
 
-To analyze the time complexity of the naive recursive solution for the longest common subsequence problem, we can use the following mathematical expression:
+To analyze the time complexity of the naive recursive solution for the longest common subsequence problem,
+we can use the following mathematical expression:
 
 Let m and n be the lengths of the input strings X and Y, respectively. Let T(m,n) be the time complexity of the naive recursive solution.
 
-The recursive function will call itself twice at each level, except for the base cases where either m or n is zero. Therefore, the number of recursive calls is exponential in the length of the input strings.
+The recursive function will call itself twice at each level, except for the base cases where either m or n is zero. Therefore, 
+the number of recursive calls is exponential in the length of the input strings.
 
 Assuming that the cost of each recursive call is constant, the time complexity of the naive recursive solution can be expressed as:
 
